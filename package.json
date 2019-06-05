@@ -1,0 +1,23 @@
+{
+  "name": "stellar-poc",
+  "version": "1.0.0",
+  "description": "POC Stellar network",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biigpongsatorn/stellar-poc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biigpongsatorn/stellar-poc/issues"
+  },
+  "homepage": "https://github.com/biigpongsatorn/stellar-poc#readme"
+}
